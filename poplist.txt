@@ -1,6 +1,6 @@
-      가수명         노래명
+      가수명       노래명
 =================================
-      Lauv       Steal The Show
-       Sia          Snowman
-
+    Lauv          Steal The Show
+    Sia           Snowman
+    Charlie Puth  Dangerously
 
